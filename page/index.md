@@ -127,15 +127,15 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 \begin{column}{colclass="col-md-8"}
 - **Track**: Applications (9th December)
 - **Title**: *Exploring synergies between a proof and reachability based hybrid system verification*\\
-- **Abstract**: This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B. 
-- **Bio**: Paulius Stankaitis is a Research Associate and member of Advanced Model-Based Engineering and Reasoning research group at Newcastle University (Newcastle upon Tyne, United Kingdom). His research focuses on the development of formal techniques for modelling and verification of safe cyber-physical systems. Prior to the postdoctoral position, Paulius worked on a formal verification of railway signalling systems. 
+- **Abstract**: This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B.
+- **Bio**: Paulius Stankaitis is a Research Associate and member of Advanced Model-Based Engineering and Reasoning research group at Newcastle University (Newcastle upon Tyne, United Kingdom). His research focuses on the development of formal techniques for modelling and verification of safe cyber-physical systems. Prior to the postdoctoral position, Paulius worked on a formal verification of railway signalling systems.
 \end{column}
 \end{columns}
 \\
 \\
 \begin{columns}
 \begin{column}{colclass="col-md-4"}
-\figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-invited"}\\
+\figure{path="assets/speakers-img/Arvind.jpeg", imgclass="img-invited"}\\
 **[Arvind Adimoolam](https://www.linkedin.com/in/arvind-adimoolam-425a1932/)**\\
 *Newcastle University, United Kingdom*
 \end{column}
@@ -143,7 +143,7 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 - **Track**: Foundations (10th December)
 - **Title**: *Using Intersection of Unions to Minimize Multi-directional Linearization Error in Reachability Analysis*
 - **Abstract**: Given an initial set of a nonlinear system with uncertain parameters and inputs, the set of states that can possibly be reached is computed. The approach is based on local linearizations of the nonlinear system, while linearization errors are considered by Lagrange remainders. These errors are added as uncertain inputs, such that the reachable set of the locally linearized system encloses the one of the original system. The linearization error is controlled by splitting of reachable sets. Reachable sets are represented by zonotopes, allowing an efficient computation in relatively high-dimensional space.
-- **Bio**:  
+- **Bio**:
 \end{column}
 \end{columns}
 \end{section}
@@ -158,22 +158,22 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 \begin{columns}
 \begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
-**[Marcelo Forets](https://mforets.github.io/)**\\ 
+**[Marcelo Forets](https://mforets.github.io/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
 \begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/schilling.jfif", imgclass="img-organiser"}\\
-**[Christian Schilling](https://schillic.github.io/)**\\ 
+**[Christian Schilling](https://schillic.github.io/)**\\
 *Aalborg University, Denmark*
 \end{column}
 \begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/Jorge_Perez.png", imgclass="img-organiser"}\\
-**[Jorge Pérez](https://www.fing.edu.uy/~jorgepz/)**\\ 
+**[Jorge Pérez](https://www.fing.edu.uy/~jorgepz/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
 \begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-organiser"}\\
-**[Luca Ferranti](https://lucaferranti.github.io)**\\ 
+**[Luca Ferranti](https://lucaferranti.github.io)**\\
 *University of Vaasa, Finland*
 \end{column}
 \end{columns}
