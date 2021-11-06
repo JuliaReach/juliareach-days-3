@@ -91,6 +91,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |17h30 -- 18h00 | **Challenge Problem 2**:  <details><summary>Abstract</summary>TBA</details>|Roberto Rocchetta|
 |18h00 -- 18h30 | **Challenge Problem 3**: Platoon of unycicle vehicles <details><summary>Abstract</summary>TBA</details>|TBA|
 |18h30 -- 19h00 | **Challenge Problem 4**:  Nonlinear model of F16 flight dynamics <details><summary>Abstract</summary>TBA</details>| Raktim Bhattacharya|
+|18h00 -- 19h30 | **Challenge Problem 5**:   <details><summary>Abstract</summary>TBA</details>| Leonardo Barboni|
 \end{table}
 \end{center}
 
