@@ -2,15 +2,18 @@
      ABOUT
     ============================== -->
 
-\begin{section}{title="JuliaReach days 3", name="About"}
+\begin{section}{title="JuliaReach Days 3", name="Welcome"}
 
-\lead{Welcome to the third edition of JuliaReach days!}
+\lead{Welcome to the third edition of JuliaReach Days!}
 
-The purpose of this event is to bring together people working on reachability analysis (or people interested in such) to exchange ideas, share results and network with new potential colleagues.
+The purpose of this event is to bring together people working on reachability analysis
+or people interested in such, to exchange ideas, share results and discuss open problems.
 
-JuliaReach days 3 will be on **9th and 10th December 2021, fully online**, (connection details coming soon).
+JuliaReach days 3 will be between **9th and 11th December 2021, fully online**, with
+connection details coming soon.
 
-During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/). Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`
+During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
+Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.
 
 \end{section}
 
@@ -18,7 +21,7 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 <!-- ==============================
      GETTING STARTED
      ============================== -->
-\begin{section}{title="Program at glance"}
+\begin{section}{title="Program at a glance"}
 
 **Thursday, 9th December 2021: Applications track**
 
@@ -60,7 +63,7 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 <!-- ==============================
      HACKATHON
      ============================== -->
-\begin{section}{title="Hackathon"}
+\begin{section}{title="Challenge Problems"}
     There will be a hackathon going on during the event. More info coming soon.
 \end{section}
 
@@ -118,6 +121,7 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
     ============================== -->
 
 \begin{section}{title="Invited speakers"}
+
 \begin{columns}
 \begin{column}{colclass="col-md-4"}
 \figure{path="assets/speakers-img/Paulius_Stankaitis.jpg", imgclass="img-invited"}\\
@@ -131,13 +135,15 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 - **Bio**: Paulius Stankaitis is a Research Associate and member of Advanced Model-Based Engineering and Reasoning research group at Newcastle University (Newcastle upon Tyne, United Kingdom). His research focuses on the development of formal techniques for modelling and verification of safe cyber-physical systems. Prior to the postdoctoral position, Paulius worked on a formal verification of railway signalling systems.
 \end{column}
 \end{columns}
+
 \\
 \\
+
 \begin{columns}
 \begin{column}{colclass="col-md-4"}
-\figure{path="assets/speakers-img/Arvind.jpeg", imgclass="img-invited"}\\
+\figure{path="assets/speakers-img/Arvind.jpg", imgclass="img-invited"}\\
 **[Arvind Adimoolam](https://www.linkedin.com/in/arvind-adimoolam-425a1932/)**\\
-*Newcastle University, United Kingdom*
+*Indian Institute of Technology (IIT) Kanpur, India*
 \end{column}
 \begin{column}{colclass="col-md-8"}
 - **Track**: Foundations (10th December)
@@ -146,13 +152,33 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 - **Bio**:
 \end{column}
 \end{columns}
+
+\\
+\\
+
+\begin{columns}
+\begin{column}{colclass="col-md-4"}
+\figure{path="assets/speakers-img/Roberto.jpg", imgclass="img-invited"}\\
+**[Roberto Rocchetta](https://www.linkedin.com/in/roberto-rocchetta-737b857a/)**\\
+*Technical University of Eindhoven, Netherlands*
+\end{column}
+\begin{column}{colclass="col-md-8"}
+- **Track**: Foundations (10th December)
+- **Title**: *Soft-constrained interval predictor models and epistemic reliability intervals: A new tool for uncertainty quantification with limited experimental data*
+- **Abstract**:
+- **Bio**:  Dr Roberto Rocchetta works as a post-doc at the department for mathematics and computer science at the Technical University of Eindhoven on a collaborative project with Philips. He holds a Master in Energy Engineering from the University of Bologna, a Master of research in decision-making under risk and uncertainty from the University of Liverpool, and a PhD in reliability engineering, also from the University of Liverpool. His PhD thesis, defended in December 2018, dealt with several important aspects of uncertainty quantification and analysis of complex systems and critical infrastructures. Before joining the University of Eindhoven, he worked for one year at the National Institute of Aerospace (NIA) in a joint project with NASA Langley. There he focused on the development of data-driven decision-making tools for reliability-based and risk-based design optimization. Rocchetta’ s research is highly multidisciplinary and combines ideas from system reliability engineering, statistical learning theory, stochastic optimization, uncertainty quantification and machine learning.
+\end{column}
+\end{columns}
+
 \end{section}
 
 <!-- =============================
      Organisers
     ============================== -->
 
-\begin{section}{title="Organisers"}
+\begin{section}{title="Committees"}
+
+\lead{Organising committee}
 
 \begin{center}
 \begin{columns}
@@ -162,6 +188,20 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 *Universidad de la República, Uruguay*
 \end{column}
 \begin{column}{colclass="col-sm-4"}
+\figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-organiser"}\\
+**[Luca Ferranti](https://lucaferranti.github.io)**\\
+*University of Vaasa, Finland*
+\end{column}
+\end{columns}
+\end{center}
+
+\\
+\\
+\lead{Program committee}
+
+\begin{center}
+\begin{columns}
+\begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/schilling.jfif", imgclass="img-organiser"}\\
 **[Christian Schilling](https://schillic.github.io/)**\\
 *Aalborg University, Denmark*
@@ -169,6 +209,11 @@ During the event, we will follow the [JuliaCon code of conduct](https://juliacon
 \begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/Jorge_Perez.png", imgclass="img-organiser"}\\
 **[Jorge Pérez](https://www.fing.edu.uy/~jorgepz/)**\\
+*Universidad de la República, Uruguay*
+\end{column}
+\begin{column}{colclass="col-sm-4"}
+\figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
+**[Marcelo Forets](https://mforets.github.io/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
 \begin{column}{colclass="col-sm-4"}

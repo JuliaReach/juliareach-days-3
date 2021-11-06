@@ -18,10 +18,10 @@ The latter allows you to plug in values that you would have defined here.
              `prepath` to an empty string. Finally, adjust this if you want the
              deployed page to be in a subfolder e.g.: `YourPackage.jl/web/`.
 -->
-@def title       = "JuliaReach days 3"
+@def title       = "JuliaReach Days 3"
 @def prepath     = "juliareach-days-3"
 @def description = """
-                   9th - 10th December 2021
+                   9th - 11th December 2021
                    """
 @def authors     = "Marcelo Forets and Luca Ferranti"
 
