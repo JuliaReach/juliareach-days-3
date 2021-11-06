@@ -32,11 +32,10 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |Activity|When|
 |:----:|:---:|
 |Opening| 14h00 -- 14h20 |
-|Status of ARCH-COMP|14h20 -- 15h30|
-|Invited talks|15h30 -- 16h00|
+|Applied Verification for Continuous and Hybrid Systems with JuliaReach|14h20 -- 15h00|
+|Invited Talks|15h30 -- 16h00|
 | **Break** | 16h00 -- 17h00|
-|Contributed challenge problems|17h00 -- 18h00|
-|JuliaReach tutorials|18h00 -- 19h00|
+|Contributed Challenge Problems|17h00 -- 18h00|
 \end{table}
 \end{center}
 \\
@@ -49,10 +48,10 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 \begin{table}{class="table-striped"}
 |Activity|When|
 |:----:|:----:|
-|Invited talks |13h00 -- 14h00|
-|Round table |14h00 -- 16h00|
+|Invited Talks |13h00 -- 14h00|
+|Round Table |14h00 -- 16h00|
 | **Break**|16h00 -- 17h00 |
-|JuliaIntervals tutorials |17h00 -- 18h00|
+|JuliaIntervals Tutorials |17h00 -- 18h00|
 \end{table}
 \end{center}
 
@@ -90,7 +89,8 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |16h00 -- 17h00|**Break**| 🍕 |
 |17h00 -- 17h30|**Challenge Problem 1**: *Exploring solutions for structural nonlinear dynamics problems using reachability analysis* <details><summary>Abstract</summary>In this challenge, a simple nonlinear structural dynamics problem will be presented [[1]](https://raw.githubusercontent.com/ONSAS/libroANLE/main/tex/libroANLE.pdf#subsection.4.3.1). Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to linear dynamics problems will be recalled [[2]](https://arxiv.org/pdf/2105.05841.pdf). The challenge is to provide an extension/application of nonlinear Reachability Analysis techniques to solve the problem.</details>|Jorge Pérez|
 |17h30 -- 18h00 | **Challenge Problem 2**: TBA <details><summary>Abstract</summary>TBA</details>|TBA|
-|18h00 -- 19h00|**JuliaReach tutorials**: *A dive into hybrid systems reachability with JuliaReach* <details><summary>Abstract</summary>TBA</details>|Marcelo Forets|
+|18h00 -- 18h30 | **Challenge Problem 3**: TBA <details><summary>Abstract</summary>TBA</details>|TBA|
+|18h30 -- 19h00 | **Challenge Problem 4**: TBA <details><summary>Abstract</summary>TBA</details>|TBA|
 \end{table}
 \end{center}
 
