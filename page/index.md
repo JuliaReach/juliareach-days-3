@@ -23,7 +23,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
      ============================== -->
 \begin{section}{title="Schedule"}
 
-**Thursday, 9th December 2021: Applications track**
+**Thursday, 9th December 2021**
 
 \lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/14:00).}
 
@@ -40,7 +40,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 \end{center}
 \\
 \\
-**Friday, 10th December 2021: Foundations track**
+**Friday, 10th December 2021**
 
 \lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/13:00).}
 
@@ -73,7 +73,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 
 \begin{section}{title="Detailed program"}
 
-**Thursday, 9th December 2021: Applications track**
+**Thursday, 9th December 2021**
 
 \lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/14:00).}
 
@@ -97,7 +97,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 
 \\
 \\
-**Friday, 10th December 2021: Foundations track**
+**Friday, 10th December 2021**
 
 \lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/13:00).}
 
@@ -128,7 +128,6 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 *Aalborg University, Denmark*
 \end{column}
 \begin{column}{colclass="col-md-8"}
-- **Track**: Applications (9th December)
 - **Title**: *TBA*\\
 - **Abstract**: TBA
 - **Bio**: TBA
@@ -145,7 +144,6 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 *Newcastle University, United Kingdom*
 \end{column}
 \begin{column}{colclass="col-md-8"}
-- **Track**: Applications (9th December)
 - **Title**: *Exploring synergies between a proof and reachability based hybrid system verification*\\
 - **Abstract**: This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B.
 - **Bio**: Paulius Stankaitis is a Research Associate and member of Advanced Model-Based Engineering and Reasoning research group at Newcastle University (Newcastle upon Tyne, United Kingdom). His research focuses on the development of formal techniques for modelling and verification of safe cyber-physical systems. Prior to the postdoctoral position, Paulius worked on a formal verification of railway signalling systems.
@@ -162,7 +160,6 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 *Indian Institute of Technology (IIT) Kanpur, India*
 \end{column}
 \begin{column}{colclass="col-md-8"}
-- **Track**: Foundations (10th December)
 - **Title**: *Using Intersection of Unions to Minimize Multi-directional Linearization Error in Reachability Analysis*
 - **Abstract**: Given an initial set of a nonlinear system with uncertain parameters and inputs, the set of states that can possibly be reached is computed. The approach is based on local linearizations of the nonlinear system, while linearization errors are considered by Lagrange remainders. These errors are added as uncertain inputs, such that the reachable set of the locally linearized system encloses the one of the original system. The linearization error is controlled by splitting of reachable sets. Reachable sets are represented by zonotopes, allowing an efficient computation in relatively high-dimensional space.
 - **Bio**:
@@ -179,7 +176,6 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 *Technical University of Eindhoven, Netherlands*
 \end{column}
 \begin{column}{colclass="col-md-8"}
-- **Track**: Foundations (10th December)
 - **Title**: *Soft-constrained interval predictor models and epistemic reliability intervals: A new tool for uncertainty quantification with limited experimental data*
 - **Abstract**:
 - **Bio**:  Dr Roberto Rocchetta works as a post-doc at the department for mathematics and computer science at the Technical University of Eindhoven on a collaborative project with Philips. He holds a Master in Energy Engineering from the University of Bologna, a Master of research in decision-making under risk and uncertainty from the University of Liverpool, and a PhD in reliability engineering, also from the University of Liverpool. His PhD thesis, defended in December 2018, dealt with several important aspects of uncertainty quantification and analysis of complex systems and critical infrastructures. Before joining the University of Eindhoven, he worked for one year at the National Institute of Aerospace (NIA) in a joint project with NASA Langley. There he focused on the development of data-driven decision-making tools for reliability-based and risk-based design optimization. Rocchetta’ s research is highly multidisciplinary and combines ideas from system reliability engineering, statistical learning theory, stochastic optimization, uncertainty quantification and machine learning.
