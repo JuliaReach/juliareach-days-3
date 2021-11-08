@@ -4,18 +4,22 @@
 
 \begin{section}{title="JuliaReach & JuliaIntervals Days 3", name="Welcome"}
 
-\lead{Welcome to the third edition of JuliaReach Days!}
+\lead{Welcome!}
 
-The purpose of this event is to bring together people working on reachability analysis
-or people interested in such, to exchange ideas, share results and discuss open problems.
+This event will host talks from two Julia communities: [JuliaReach](https://github.com/JuliaReach) (reachability analysis)
+and [JuliaIntervals](https://github.com/JuliaIntervals) (interval methods). The main goal is to bring together people
+interested in foundations or applications of these topics by: disseminating
+the current state of relevant Julia packages, organising development sprints and exchanging
+ideas or discussing open problems.
 
-This year edition will have an "interval flavour", meaning it will host talks from the JuliaIntervals organisation related to interval arithmetic and interval methods in Julia.
+The event will take place from **9th to 11th December 2021, fully online**.
+Connection details will be sent upon registration.
 
-JuliaReach days 3 will be between **9th and 11th December 2021, fully online**, with
-connection details coming soon.
+\lead{Registration}
 
-During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
-Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.
+We require those interested in participating in the event to register using the following
+google form: [TODO: ADD LINK TO GOOGLE FORM HERE]. Optionally, participants' information will be
+displayed in the world map of the Participants section in this webpage. [TODO: ADD HYPERLINK TO THE PARTICIPANTS SECTION]
 
 \end{section}
 
@@ -133,9 +137,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
      Organisers
     ============================== -->
 
-\begin{section}{title="Committees"}
-
-\lead{Organising committee}
+\begin{section}{title="Organisers"}
 
 \begin{center}
 \begin{columns}
@@ -150,17 +152,10 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 *University of Vaasa, Finland*
 \end{column}
 \end{columns}
-\end{center}
-
-\\
-\\
-\lead{Program committee}
-
-\begin{center}
 \begin{columns}
 \begin{column}{colclass="col-sm-4"}
 \figure{path="assets/speakers-img/schilling.jfif", imgclass="img-organiser"}\\
-**[Christian Schilling](https://schillic.github.io/)**\\
+**[Christian Schilling](https://www.christianschilling.net/)**\\
 *Aalborg University, Denmark*
 \end{column}
 \begin{column}{colclass="col-sm-4"}
@@ -168,18 +163,12 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 **[Jorge Pérez](https://www.fing.edu.uy/~jorgepz/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
-\begin{column}{colclass="col-sm-4"}
-\figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
-**[Marcelo Forets](https://mforets.github.io/)**\\
-*Universidad de la República, Uruguay*
-\end{column}
-\begin{column}{colclass="col-sm-4"}
-\figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-organiser"}\\
-**[Luca Ferranti](https://lucaferranti.github.io)**\\
-*University of Vaasa, Finland*
-\end{column}
 \end{columns}
 \end{center}
+
+\\ \\
+*During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
+Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.*
 
 \end{section}
 
