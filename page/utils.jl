@@ -17,3 +17,20 @@ end
 function _column(md; colclass="col")
     return html("<div class=\"$colclass\">") * md * html("</div>")
 end
+
+
+function lx_speakers(_, _)
+    include("data/speakers.jl")
+    sort!(speakers, by=x->split(x.name)[2]) # sort by surname
+    result = ""
+    for s in speakers
+        result *= """
+        \\begin{column}{colclass="col-sm-4"}
+        \\figure{path="assets/speakers-img/$(s.imgName)", imgclass="img-organiser"}\\
+        **[$(s.name)]($(s.link))**\\
+        *$(s.org)*
+        \\end{column}
+        """
+    end
+    return result
+end
