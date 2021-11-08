@@ -13,5 +13,6 @@ speakers = [
     Speaker("Arvind Adimoolam", "Arvind.jpg", "Indian Institute of Technology (IIT) Kanpur, India", "https://www.linkedin.com/in/arvind-adimoolam-425a1932/"),
     Speaker("Paulius Stankaitis", "Paulius_Stankaitis.jpg", "Newcastle University, United Kingdom", "https://dblp.org/pid/174/1117.html"),
     Speaker("Roberto Rocchetta", "Roberto.jpg", "Technical University of Eindhoven, Netherlands", "https://www.linkedin.com/in/roberto-rocchetta-737b857a/"),
-    Speaker("Luis Benet", "benet.jpeg", "Universidad Nacional Autónoma de México", "https://lbenet.github.io/")
+    Speaker("Luis Benet", "benet.jpeg", "Universidad Nacional Autónoma de México", "https://lbenet.github.io/"),
+    Speaker("David Sanders", "sanders.jpeg", "Universidad Nacional Autónoma de México", "https://github.com/dpsanders")
 ]
