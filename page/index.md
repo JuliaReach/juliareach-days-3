@@ -2,12 +2,14 @@
      ABOUT
     ============================== -->
 
-\begin{section}{title="JuliaReach Days 3", name="Welcome"}
+\begin{section}{title="JuliaReach & JuliaIntervals Days 3", name="Welcome"}
 
 \lead{Welcome to the third edition of JuliaReach Days!}
 
 The purpose of this event is to bring together people working on reachability analysis
 or people interested in such, to exchange ideas, share results and discuss open problems.
+
+This year edition will have an "interval flavour", meaning it will host talks from the JuliaIntervals organisation related to interval arithmetic and interval methods in Julia.
 
 JuliaReach days 3 will be between **9th and 11th December 2021, fully online**, with
 connection details coming soon.
