@@ -16,8 +16,8 @@ const persons = [
     },
     {
         name : 'Luca Ferranti',
-        lat : 60.184832594,
-        lon : 24.82333004,
+        lat : 60.186836,
+        lon : 24.821351,
         github : 'lucaferranti',
         linkedin: 'https://www.linkedin.com/in/luca-ferranti/',
         homepage: 'https://lucaferranti.github.io'
@@ -36,5 +36,14 @@ const persons = [
         github: 'lbenet',
         twitter: 'luisbenetf',
         homepage: 'https://lbenet.github.io/'
+    },
+    {
+        name: 'David Sanders',
+        lat: 42.361145,
+        lon: -71.057083,
+        github: 'dpsanders',
+        twitter: 'DavidPSanders',
+        linkedin: 'https://www.linkedin.com/in/david-p-sanders-05aa246/',
+        homepage: 'https://sistemas.fciencias.unam.mx/~dsanders/'
     }
 ];
