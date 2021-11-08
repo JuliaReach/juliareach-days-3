@@ -4,18 +4,22 @@
 
 \begin{section}{title="JuliaReach & JuliaIntervals Days 3", name="Welcome"}
 
-\lead{Welcome to the third edition of JuliaReach Days!}
+\lead{Welcome!}
 
-The purpose of this event is to bring together people working on reachability analysis
-or people interested in such, to exchange ideas, share results and discuss open problems.
+This event will host talks from two Julia communities: [JuliaReach](https://github.com/JuliaReach) (reachability analysis)
+and [JuliaIntervals](https://github.com/JuliaIntervals) (interval methods). The main goal is to bring together people
+interested in foundations or applications of these topics by: disseminating
+the current state of relevant Julia packages, organising development sprints and exchanging
+ideas or discussing open problems.
 
-This year edition will have an "interval flavour", meaning it will host talks from the JuliaIntervals organisation related to interval arithmetic and interval methods in Julia.
+The event will take place from **9th to 11th December 2021, fully online**.
+Connection details will be sent upon registration.
 
-JuliaReach days 3 will be between **9th and 11th December 2021, fully online**, with
-connection details coming soon.
+\lead{Registration}
 
-During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
-Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.
+We require those interested in participating in the event to register using the following
+google form: [TODO: ADD LINK TO GOOGLE FORM HERE]. Optionally, participants' information will be
+displayed in the world map of the [Participants](#participants) section in this webpage.
 
 \end{section}
 
@@ -82,16 +86,14 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |When|Activity| Speaker(s) |
 |:---|:---:|:---:|
 |14h00 -- 14h20 |*Opening*| Marcelo Forets and Luca Ferranti|
-|14h20 -- 15h00|**Talk 1:** *Overview of JuliaReach* <details><summary>Abstract</summary>TBA</details>|Marcelo Forets, Luis Benet|
+|14h20 -- 15h00|**Talk 1:** *Overview of JuliaReach* <details><summary>Abstract</summary>TBA</details>|Marcelo Forets|
 |15h00 -- 15h30|**Talk 2:** *TBA*<details><summary>Abstract</summary>TBA</details>|Christian Schilling|
 |15h30 -- 16h00|**Talk 3:** *Exploring synergies between a proof and reachability based hybrid system verification* <details><summary>Abstract</summary>This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B. </details>| Paulius Stankaitis|
 |16h00 -- 17h00|**Break**| 🍕 |
-|17h00 -- 17h20|**Challenge Problem 1:** *A nonlinear truss structural dynamics problem using reachability analysis* <details><summary>Abstract</summary>In this challenge, a simple truss-structure linear/nonlinear dynamics problem will be presented, where in the nonlinear case, large displacements are considered [[1]](https://raw.githubusercontent.com/ONSAS/libroANLE/main/tex/libroANLE.pdf#subsection.4.3.1). Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to the linear case will be recalled [[2]](https://arxiv.org/pdf/2105.05841.pdf). The numerical results for the linear case using numerical integration and reachability will be obtained. Finally the nonlinear case problem will be clearly posed allowing to discuss possible novel approaches using reachability analysis.</details>|Jorge Pérez Zerpa|
+|17h00 -- 17h20 | **Challenge Problem 1:** *Platoon of unycicle vehicles* <details><summary>Abstract</summary>TBA</details>|Arvind Adimoolam|
 |17h20 -- 17h40 | **Challenge Problem 2:** *Robust control problem by scenario optimization* <details><summary>Abstract</summary>TBA</details>|Roberto Rocchetta|
-|17h40 -- 18h00 | **Challenge Problem 3:** *Platoon of unycicle vehicles* <details><summary>Abstract</summary>TBA</details>|Arvind Adimoolam|
+|17h40 -- 18h00|**Challenge Problem 3:** *A nonlinear truss structural dynamics problem using reachability analysis* <details><summary>Abstract</summary>In this challenge, a simple truss-structure linear/nonlinear dynamics problem will be presented, where in the nonlinear case, large displacements are considered [[1]](https://raw.githubusercontent.com/ONSAS/libroANLE/main/tex/libroANLE.pdf#subsection.4.3.1). Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to the linear case will be recalled [[2]](https://arxiv.org/pdf/2105.05841.pdf). The numerical results for the linear case using numerical integration and reachability will be obtained. Finally the nonlinear case problem will be clearly posed allowing to discuss possible novel approaches using reachability analysis.</details>|Jorge Pérez Zerpa|
 |18h00 -- 18h20 | **Challenge Problem 4:**  *Nonlinear model of F16 flight dynamics* <details><summary>Abstract</summary>TBA</details>| Raktim Bhattacharya|
-|18h20 -- 18h40 | **Challenge Problem 5:**   <details><summary>Abstract</summary>TBA</details>| Leonardo Barboni|
-|18h40 -- 19h00 | **Challenge Problem 6:**   <details><summary>Abstract</summary>TBA</details>| Jorge Pérez-Hernández|
 \end{table}
 \end{center}
 
@@ -133,53 +135,36 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
      Organisers
     ============================== -->
 
-\begin{section}{title="Committees"}
-
-\lead{Organising committee}
+\begin{section}{title="Organisers"}
 
 \begin{center}
 \begin{columns}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
 **[Marcelo Forets](https://mforets.github.io/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-organiser"}\\
 **[Luca Ferranti](https://lucaferranti.github.io)**\\
 *University of Vaasa, Finland*
 \end{column}
-\end{columns}
-\end{center}
-
-\\
-\\
-\lead{Program committee}
-
-\begin{center}
-\begin{columns}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/schilling.jfif", imgclass="img-organiser"}\\
-**[Christian Schilling](https://schillic.github.io/)**\\
+**[Christian Schilling](https://www.christianschilling.net/)**\\
 *Aalborg University, Denmark*
 \end{column}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/Jorge_Perez.png", imgclass="img-organiser"}\\
 **[Jorge Pérez](https://www.fing.edu.uy/~jorgepz/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
-\begin{column}{colclass="col-sm-4"}
-\figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
-**[Marcelo Forets](https://mforets.github.io/)**\\
-*Universidad de la República, Uruguay*
-\end{column}
-\begin{column}{colclass="col-sm-4"}
-\figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-organiser"}\\
-**[Luca Ferranti](https://lucaferranti.github.io)**\\
-*University of Vaasa, Finland*
-\end{column}
 \end{columns}
 \end{center}
+
+\\ \\
+*During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
+Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.*
 
 \end{section}
 
