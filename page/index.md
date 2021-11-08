@@ -237,3 +237,8 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 \end{center}
 
 \end{section}
+
+\begin{section}{title="Participants"}
+
+~~~<div id="map"></div>~~~
+\end{section}

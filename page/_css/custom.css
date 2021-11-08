@@ -63,4 +63,28 @@ pre code.hljs.plaintext {
   border-radius:50%;
   width: 100%;
 }
+
+#map { height: 512px;}
+
+
+.cluster {
+  background-color: rgba(220, 51, 255, 0.2);
+  background-clip: padding-box;
+  border-radius: 20px;
+}
+
+.cluster div {
+  background-color: rgba(220, 51, 255, 0.4);
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+  color: white;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.cluster span {
+  line-height: 30px;
+}
 /* ADD ANY SPECIFIC TWEAKS YOU MIGHT WANT HERE */
