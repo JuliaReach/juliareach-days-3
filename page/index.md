@@ -19,7 +19,7 @@ Connection details will be sent upon registration.
 
 We require those interested in participating in the event to register using the following
 google form: [TODO: ADD LINK TO GOOGLE FORM HERE]. Optionally, participants' information will be
-displayed in the world map of the Participants section in this webpage. [TODO: ADD HYPERLINK TO THE PARTICIPANTS SECTION]
+displayed in the world map of the [Participants](#participants) section in this webpage.
 
 \end{section}
 
