@@ -28,5 +28,13 @@ const persons = [
         lon: 9.985,
         github: 'schillic',
         homepage: 'https://schillic.github.io/'
+    },
+    {
+        name: 'Luis Benet',
+        lat: 18.9820975,
+        lon: -99.2372167,
+        github: 'lbenet',
+        twitter: 'luisbenetf',
+        homepage: 'https://lbenet.github.io/'
     }
 ];
