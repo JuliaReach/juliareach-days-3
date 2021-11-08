@@ -139,24 +139,22 @@ displayed in the world map of the [Participants](#participants) section in this 
 
 \begin{center}
 \begin{columns}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
 **[Marcelo Forets](https://mforets.github.io/)**\\
 *Universidad de la República, Uruguay*
 \end{column}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/ferranti.jpeg", imgclass="img-organiser"}\\
 **[Luca Ferranti](https://lucaferranti.github.io)**\\
 *University of Vaasa, Finland*
 \end{column}
-\end{columns}
-\begin{columns}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/schilling.jfif", imgclass="img-organiser"}\\
 **[Christian Schilling](https://www.christianschilling.net/)**\\
 *Aalborg University, Denmark*
 \end{column}
-\begin{column}{colclass="col-sm-4"}
+\begin{column}{colclass="col-sm-3"}
 \figure{path="assets/speakers-img/Jorge_Perez.png", imgclass="img-organiser"}\\
 **[Jorge Pérez](https://www.fing.edu.uy/~jorgepz/)**\\
 *Universidad de la República, Uruguay*
