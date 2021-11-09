@@ -42,8 +42,7 @@ The latter allows you to plug in values that you would have defined here.
 @def nav_logo_path  = "/assets/favicon.png"
 @def nav_logo_alt   = "Logo"
 @def nav_logo_style = """
-                      height:         30px;
-                      padding-right:  10px;
+                      height: 30px;
                       """
 
 <!-- HEADER SPECS
