@@ -1,6 +1,6 @@
-# juliareach-days-3
+# JuliaReach & JuliaIntervals Days 3
 
-Website for the third edition of JuliaReach days 3, 9th - 11th December 2021.
+Website for *JuliaReach & JuliaIntervals Days 3*, 9th - 11th December 2021.
 
 ### Instructions to deploy locally
 
