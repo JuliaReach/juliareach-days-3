@@ -1,19 +1,22 @@
 html { scroll-behavior: smooth; }
 header { margin: 0; padding: 0;}
 section { padding: 75px 0; }
-.jumbotron { margin-bottom: 0;}
+.jumbotron { margin-bottom: 0; background-size: contain;}
 
 /* NAVBAR */
 
 #navbar-toggler-cbox:checked ~ .collapse { display:block; }
 .navbar-nav .active { color: #fff; }
 
-@media (max-width: 433px){
+@media (max-width: 435px){
   .navbar-brand a {
     display: none;
   }
 }
-.navbar-brand a { color: ghostwhite; }
+.navbar-brand a { 
+  color: ghostwhite; 
+  font-size: 1.2rem;}
+
 .navbar-brand a:hover {
   color: rgba(255,255,255,.5);
   text-decoration: none;

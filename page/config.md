@@ -39,10 +39,10 @@ The latter allows you to plug in values that you would have defined here.
 @def docs_name = "Docs"
 
 @def add_nav_logo   = true
-@def nav_logo_path  = "/assets/favicon.png"
+@def nav_logo_path  = "/assets/logo.svg"
 @def nav_logo_alt   = "Logo"
 @def nav_logo_style = """
-                      height: 30px;
+                      height: 60px;
                       """
 
 <!-- HEADER SPECS
@@ -73,12 +73,12 @@ The latter allows you to plug in values that you would have defined here.
 -->
 @def use_header         = true
 @def use_header_img     = true
-@def header_img_path    = "url(\"assets/diagonal-lines.svg\")"
+@def header_img_path    = "url(\"assets/logo.svg\")"
 @def header_img_style   = ""
 @def header_margin_top  = "55px" <!-- 55-60px ~ touching nav bar -->
 
-@def use_hero           = false
-@def hero_width         = "80%"
+@def use_hero           = true
+@def hero_width         = "100%"
 @def hero_margin_top    = "100px"
 
 @def add_github_view  = true
@@ -106,7 +106,7 @@ NOTE:
                        visually separate between sections.
   - footer_link_color: color of links in the footer
 -->
-@def header_color       = "#3f6388"
+@def header_color       = "#212529"
 @def link_color         = "#2669DD"
 @def link_hover_color   = "teal"
 @def section_bg_color   = "#f6f8fa"
