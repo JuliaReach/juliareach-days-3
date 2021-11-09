@@ -4,7 +4,7 @@
 
 \begin{section}{title="JuliaReach & JuliaIntervals Days 3", name="Welcome"}
 
-\lead{Welcome!}
+\lead{**Welcome!**}
 
 This event will host talks from two Julia communities: [JuliaReach](https://github.com/JuliaReach) (reachability analysis)
 and [JuliaIntervals](https://github.com/JuliaIntervals) (interval methods). The main goal is to bring together people
@@ -15,12 +15,15 @@ ideas or discussing open problems.
 The event will take place from **9th to 11th December 2021, fully online**.
 Connection details will be sent upon registration.
 
-\lead{Registration}
+\lead{**Registration**}
 
-We require those interested in participating in the event to register using the following
-google form: [TODO: ADD LINK TO GOOGLE FORM HERE]. Optionally, participants' information will be
-displayed in the world map of the [Participants](#participants) section in this webpage.
+The event is free, but registration is required. Optionally, participants' information will be
+displayed in the world map of the [Participants](#participants) section in this webpage. **Registration link coming soon**
 
+\lead{**Code of Conduct**}
+
+*During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
+Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.*
 \end{section}
 
 
@@ -75,9 +78,10 @@ displayed in the world map of the [Participants](#participants) section in this 
      Detailed program
     ============================== -->
 
-\begin{section}{title="Detailed program"}
+\begin{section}{title="Program"}
 
 **Thursday, 9th December 2021**
+
 
 \lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/14:00).}
 
@@ -161,10 +165,6 @@ displayed in the world map of the [Participants](#participants) section in this 
 \end{column}
 \end{columns}
 \end{center}
-
-\\ \\
-*During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
-Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.*
 
 \end{section}
 

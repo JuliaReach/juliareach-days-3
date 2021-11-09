@@ -8,6 +8,11 @@ section { padding: 75px 0; }
 #navbar-toggler-cbox:checked ~ .collapse { display:block; }
 .navbar-nav .active { color: #fff; }
 
+@media (max-width: 433px){
+  .navbar-brand a {
+    display: none;
+  }
+}
 .navbar-brand a { color: ghostwhite; }
 .navbar-brand a:hover {
   color: rgba(255,255,255,.5);
