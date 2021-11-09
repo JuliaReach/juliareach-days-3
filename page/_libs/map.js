@@ -3,7 +3,7 @@
 function add_icon(service, account) {
     if (service === 'homepage') {
         return `<a id="img-link" href="${account}" target="_blank" rel="noreferrer noopener"><i class="fa fa-globe" aria-hidden="true"></i></a> `;
-    } else if (service == 'linkedin') {
+    } else if (service == 'linkedin' || service == 'gitlab') {
         return `<a id="img-link" href="${account}" target="_blank" rel="noreferrer noopener"><i class="fa fa-${service} fa-lg" aria-hidden="true"></i></a> `;
     } else {
         var href = `https://${service}.com/${account}`;
@@ -64,7 +64,8 @@ var markers = L.markerClusterGroup({
             className: 'cluster',
             iconSize: new L.Point(40, 40)
         });
-    }
+    },
+    maxClusterRadius: 40
 });
 
 for (const person of persons) {
