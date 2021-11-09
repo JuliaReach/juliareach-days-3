@@ -115,7 +115,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |13h30 -- 14h00 | **Talk 5:** *Soft-constrained interval predictor models and epistemic reliability intervals: A new tool for uncertainty quantification with limited experimental data* <details><summary>Abstract</summary>TBA</details>|Roberto Rocchetta|
 |14h00 -- 16h00 |**Talk 6:** *Overview of JuliaIntervals* <details><summary>Abstract</summary>TBA</details>|Luis Benet, Luca Ferranti, David Sanders|
 |16h00 -- 17h00 |**Break**|🍕|
-|17h00 -- 19h00|**Round table:** *IntervalArithmetic.jl status and roadmap* <details><summary>Abstract</summary>TBA</details>|everyone willing to discuss|
+|17h00 -- 19h00|**Round table:** *JuliaIntervals status and roadmap* <details><summary>Abstract</summary>TBA</details>|everyone willing to discuss|
 \end{table}
 \end{center}
 
