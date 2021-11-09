@@ -73,7 +73,7 @@ The latter allows you to plug in values that you would have defined here.
 -->
 @def use_header         = true
 @def use_header_img     = true
-@def header_img_path    = "url(\"assets/diagonal-lines.svg\")"
+@def header_img_path    = "url(\"assets/logo.svg\")"
 @def header_img_style   = ""
 @def header_margin_top  = "55px" <!-- 55-60px ~ touching nav bar -->
 
@@ -106,7 +106,7 @@ NOTE:
                        visually separate between sections.
   - footer_link_color: color of links in the footer
 -->
-@def header_color       = "#3f6388"
+@def header_color       = "#212529"
 @def link_color         = "#2669DD"
 @def link_hover_color   = "teal"
 @def section_bg_color   = "#f6f8fa"
