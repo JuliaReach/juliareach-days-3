@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- META -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Marcelo Forets and Luca Ferranti">
+  <title>JuliaReach & JuliaIntervals Days 3</title>
+
+  <link rel="icon" type="image/png"  href="/juliareach-days-3/assets/favicon.png">
+
+  <!-- CSS -->
+  
+  
+  <link rel="stylesheet" href="/juliareach-days-3/css/bootstrap.min.css">
+  <style>.bg-primary {
+  background-color: #212529 !important;
+}
+
+a {
+  color: #2669DD;
+}
+
+a:hover {
+  color: teal;
+}
+
+.section-bg-color {
+  background-color: #f6f8fa;
+}
+
+footer a {
+  color: cornflowerblue;
+}
+
+
+.jumbotron {
+  width: 100%;
+}
+
+header {
+  margin-top: 100px !important;
+}
+
+
+
+.jumbotron {
+  background-image: url("assets/logo.svg");
+  background-repeat: repeat;
+}
+
+
+/* CODE ADJUSTMENTS */
+
+pre code.hljs {
+  border-radius: 10px;
+}
+
+pre code.hljs.plaintext {
+  margin-left: 15px;
+}
+</style>
+  <link rel="stylesheet" href="/juliareach-days-3/css/custom.css">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+  crossorigin=""/>
+
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+
+  <!-- https://github.com/Leaflet/Leaflet.markercluster -->
+  <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.min.js"></script>
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+  <script src="https://kit.fontawesome.com/f030d443fe.js" crossorigin="anonymous"></script>
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+  <div class="container">
+    <span class="navbar-brand">
+      
+        <img src="/juliareach-days-3/assets/logo.svg" class="img-fluid" style="height: 60px;
+" alt="Logo"/>
+      
+      <a href="#page-top">JuliaReach & JuliaIntervals Days 3</a>
+      
+    </span>
+    <input type="checkbox" id="navbar-toggler-cbox" class="d-none" />
+    <label for="navbar-toggler-cbox" class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </label>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#welcome">Welcome</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#schedule">Schedule</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#challenges">Challenges</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#program">Program</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#speakers">Speakers</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#organisers">Organisers</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#participants">Participants</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <header class="text-white text-center">
+  
+    <div class="jumbotron container bg-primary">
+  
+    <h1>JuliaReach & JuliaIntervals Days 3</h1>
+    <div class="lead" style="font-weight: bold;">9th - 11th December 2021
+</div>
+    
+      <a class="github-button" href="https://github.com/juliareach/juliareach-days-3" data-size="large" aria-label="View JuliaReach & JuliaIntervals Days 3 on GitHub">View on GitHub</a>
+    
+    
+      <a class="github-button" href="https://github.com/juliareach/juliareach-days-3" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star JuliaReach & JuliaIntervals Days 3 on GitHub">Star</a>
+    
+  </div>
+</header>
+
+  <!-- Content appended here -->
+<div class="franklin-content"><section id="welcome" class="scrollspy">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>JuliaReach & JuliaIntervals Days 3</h2></p>
+<div class="lead"><strong>Welcome&#33;</strong></div>
+<p>This event will host talks from two Julia communities: <a href="https://github.com/JuliaReach">JuliaReach</a> &#40;reachability analysis&#41; and <a href="https://github.com/JuliaIntervals">JuliaIntervals</a> &#40;interval methods&#41;. The main goal is to bring together people interested in foundations or applications of these topics by: disseminating the current state of relevant Julia packages, organising development sprints and exchanging ideas or discussing open problems.</p>
+<p>The event will take place from <strong>9th to 11th December 2021, fully online</strong>. Connection details will be sent upon registration.</p>
+<div class="lead"><strong>Registration</strong></div>
+<p>The event is free, but registration is required. Optionally, participants&#39; information will be displayed in the world map of the <a href="#participants">Participants</a> section in this webpage. <strong>Registration link coming soon</strong></p>
+<div class="lead"><strong>Code of Conduct</strong></div>
+<p><em>During the event, we will follow the <a href="https://juliacon.org/2021/coc/">JuliaCon code of conduct</a>. Violations of code of conduct can be reported to <code>mforets &#91;at&#93; gmail &#91;dot&#93; com</code> and/or <code>luca &#91;dot&#93; ferranti &#91;at&#93; uwasa &#91;dot&#93; fi</code>.</em>       </div>
+    </div>
+  </div>
+</section>
+<section id="schedule" class="scrollspy section-bg-color">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Schedule</h2></p>
+<p><strong>Thursday, 9th December 2021</strong></p>
+<div class="lead">All times are in UTC, convert the starting time to your timezone <a href="https://arewemeetingyet.com/UTC/2021-12-09/14:00">here</a>.</div>
+<p> <div style="text-align:center;"> <table class="table table-striped"> <thead><tr><th align="center">Activity</th><th align="center">When</th></tr></thead><tbody><tr><td align="center">Opening</td><td align="center">14h00 -- 14h20</td></tr><tr><td align="center">Talks</td><td align="center">14h20 -- 16h00</td></tr><tr><td align="center"><strong>Break</strong></td><td align="center">16h00 -- 17h00</td></tr><tr><td align="center">Contributed Challenge Problems</td><td align="center">17h00 -- 19h00</td></tr></tbody></table>  </div> <br/> <br/> <strong>Friday, 10th December 2021</strong></p>
+<div class="lead">All times are in UTC, convert the starting time to your timezone <a href="https://arewemeetingyet.com/UTC/2021-12-09/13:00">here</a>.</div>
+ <div style="text-align:center;"> <table class="table table-striped"> <thead><tr><th align="center">Activity</th><th align="center">When</th></tr></thead><tbody><tr><td align="center">Talks</td><td align="center">13h00 -- 16h00</td></tr><tr><td align="center"><strong>Break</strong></td><td align="center">16h00 -- 17h00</td></tr><tr><td align="center">JuliaIntervals Round Table</td><td align="center">17h00 -- 19h00</td></tr></tbody></table>  </div>
+<p>      </div>
+    </div>
+  </div>
+</section>
+<section id="challenges" class="scrollspy">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Challenges</h2>     There will be a hackathon going on during the event. More info coming soon.       </div>
+    </div>
+  </div>
+</section>
+<section id="program" class="scrollspy section-bg-color">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Program</h2></p>
+<p><strong>Thursday, 9th December 2021</strong></p>
+<div class="lead">All times are in UTC, convert the starting time to your timezone <a href="https://arewemeetingyet.com/UTC/2021-12-09/14:00">here</a>.</div>
+ <div style="text-align:center;"> <table class="table table-striped"> <thead><tr><th align="left">When</th><th align="center">Activity</th><th align="center">Speaker(s)</th></tr></thead><tbody><tr><td align="left">14h00 -- 14h20</td><td align="center"><em>Opening</em></td><td align="center">Marcelo Forets and Luca Ferranti</td></tr><tr><td align="left">14h20 -- 15h00</td><td align="center"><strong>Talk 1:</strong> <em>Overview of JuliaReach</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">Marcelo Forets</td></tr><tr><td align="left">15h00 -- 15h30</td><td align="center"><strong>Talk 2:</strong> <em>TBA</em><details><summary>Abstract</summary>TBA</details></td><td align="center">Christian Schilling</td></tr><tr><td align="left">15h30 -- 16h00</td><td align="center"><strong>Talk 3:</strong> <em>Exploring synergies between a proof and reachability based hybrid system verification</em> <details><summary>Abstract</summary>This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B. </details></td><td align="center">Paulius Stankaitis</td></tr><tr><td align="left">16h00 -- 17h00</td><td align="center"><strong>Break</strong></td><td align="center">🍕</td></tr><tr><td align="left">17h00 -- 17h20</td><td align="center"><strong>Challenge Problem 1:</strong> <em>Platoon of unycicle vehicles</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">Arvind Adimoolam</td></tr><tr><td align="left">17h20 -- 17h40</td><td align="center"><strong>Challenge Problem 2:</strong> <em>Robust control problem by scenario optimization</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">Roberto Rocchetta</td></tr><tr><td align="left">17h40 -- 18h00</td><td align="center"><strong>Challenge Problem 3:</strong> <em>A nonlinear truss structural dynamics problem using reachability analysis</em> <details><summary>Abstract</summary>In this challenge, a simple truss-structure linear/nonlinear dynamics problem will be presented, where in the nonlinear case, large displacements are considered <a href="https://raw.githubusercontent.com/ONSAS/libroANLE/main/tex/libroANLE.pdf#subsection.4.3.1">[1]</a>. Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to the linear case will be recalled <a href="https://arxiv.org/pdf/2105.05841.pdf">[2]</a>. The numerical results for the linear case using numerical integration and reachability will be obtained. Finally the nonlinear case problem will be clearly posed allowing to discuss possible novel approaches using reachability analysis.</details></td><td align="center">Jorge Pérez Zerpa</td></tr><tr><td align="left">18h00 -- 18h20</td><td align="center"><strong>Challenge Problem 4:</strong>  <em>Nonlinear model of F16 flight dynamics</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">Raktim Bhattacharya</td></tr></tbody></table>  </div>
+<p><br/> <br/> <strong>Friday, 10th December 2021</strong></p>
+<div class="lead">All times are in UTC, convert the starting time to your timezone <a href="https://arewemeetingyet.com/UTC/2021-12-09/13:00">here</a>.</div>
+ <div style="text-align:center;"> <table class="table table-striped"> <thead><tr><th align="left">When</th><th align="center">Activity</th><th align="center">Speaker(s)</th></tr></thead><tbody><tr><td align="left">13h00 -- 13h30</td><td align="center"><strong>Talk 4:</strong> <em>Using Intersection of Unions to Minimize Multi-directional Linearization Error in Reachability Analysis</em> <details><summary>Abstract</summary>Given an initial set of a nonlinear system with uncertain parameters and inputs, the set of states that can possibly be reached is computed. The approach is based on local linearizations of the nonlinear system, while linearization errors are considered by Lagrange remainders. These errors are added as uncertain inputs, such that the reachable set of the locally linearized system encloses the one of the original system. The linearization error is controlled by splitting of reachable sets. Reachable sets are represented by zonotopes, allowing an efficient computation in relatively high-dimensional space. </details></td><td align="center">Arvind Adimoolam</td></tr><tr><td align="left">13h30 -- 14h00</td><td align="center"><strong>Talk 5:</strong> <em>Soft-constrained interval predictor models and epistemic reliability intervals: A new tool for uncertainty quantification with limited experimental data</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">Roberto Rocchetta</td></tr><tr><td align="left">14h00 -- 16h00</td><td align="center"><strong>Talk 6:</strong> <em>Overview of JuliaIntervals</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">Luis Benet, Luca Ferranti, David Sanders</td></tr><tr><td align="left">16h00 -- 17h00</td><td align="center"><strong>Break</strong></td><td align="center">🍕</td></tr><tr><td align="left">17h00 -- 19h00</td><td align="center"><strong>Round table:</strong> <em>JuliaIntervals status and roadmap</em> <details><summary>Abstract</summary>TBA</details></td><td align="center">everyone willing to discuss</td></tr></tbody></table>  </div>
+<p>      </div>
+    </div>
+  </div>
+</section>
+<section id="speakers" class="scrollspy">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Speakers</h2></p>
+ <div style="text-align:center;">  <div class="container"><div class="row"> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/Arvind.jpg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://www.linkedin.com/in/arvind-adimoolam-425a1932/">Arvind Adimoolam</a></strong><br /><em>Indian Institute of Technology &#40;IIT&#41; Kanpur, India</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/benet.jpeg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://lbenet.github.io/">Luis Benet</a></strong><br /><em>Universidad Nacional Autónoma de México</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/ferranti.jpeg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://lucaferranti.github.io">Luca Ferranti</a></strong><br /><em>University of Vaasa, Finland</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/forets.png" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://mforets.github.io/">Marcelo Forets</a></strong><br /><em>Universidad de la República, Uruguay</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/Jorge_Perez.png" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://www.fing.edu.uy/~jorgepz/">Jorge Pérez Zerpa</a></strong><br /><em>Universidad de la República, Uruguay</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/Roberto.jpg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://www.linkedin.com/in/roberto-rocchetta-737b857a/">Roberto Rocchetta</a></strong><br /><em>Technical University of Eindhoven, Netherlands</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/sanders.jpeg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://github.com/dpsanders">David Sanders</a></strong><br /><em>Universidad Nacional Autónoma de México</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/schilling.jfif" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://www.christianschilling.net/">Christian Schilling</a></strong><br /><em>Aalborg University, Denmark</em> </div> <div class="col-sm-4"> <figure class="figure">
+  <img src="assets/speakers-img/Paulius_Stankaitis.jpg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br /><strong><a href="https://dblp.org/pid/174/1117.html">Paulius Stankaitis</a></strong><br /><em>Newcastle University, United Kingdom</em> </div>  </div></div>  </div>
+<p>      </div>
+    </div>
+  </div>
+</section>
+<section id="organisers" class="scrollspy section-bg-color">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Organisers</h2></p>
+ <div style="text-align:center;">  <div class="container"><div class="row"> <div class="col-sm-3"> <figure class="figure">
+  <img src="assets/speakers-img/forets.png" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br/> <strong><a href="https://mforets.github.io/">Marcelo Forets</a></strong><br/> <em>Universidad de la República, Uruguay</em> </div> <div class="col-sm-3"> <figure class="figure">
+  <img src="assets/speakers-img/ferranti.jpeg" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br/> <strong><a href="https://lucaferranti.github.io">Luca Ferranti</a></strong><br/> <em>University of Vaasa, Finland</em> </div> <div class="col-sm-3"> <figure class="figure">
+  <img src="assets/speakers-img/schilling.jfif" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br/> <strong><a href="https://www.christianschilling.net/">Christian Schilling</a></strong><br/> <em>Aalborg University, Denmark</em> </div> <div class="col-sm-3"> <figure class="figure">
+  <img src="assets/speakers-img/Jorge_Perez.png" alt="" class="figure-img img-fluid img-organiser" width="" >
+  
+</figure>
+<br/> <strong><a href="https://www.fing.edu.uy/~jorgepz/">Jorge Pérez</a></strong><br/> <em>Universidad de la República, Uruguay</em> </div>  </div></div>  </div>
+<p>      </div>
+    </div>
+  </div>
+</section>
+<section id="participants" class="scrollspy">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h2>Participants</h2></p>
+<p><div id="map"></div>       </div>
+    </div>
+  </div>
+</section>
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">&copy; Marcelo Forets and Luca Ferranti. Website powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>, <a href="https://github.com/tlienart/PkgPage.jl">PkgPage.jl</a> and the <a href="https://julialang.org">Julia</a> programming language.</p>
+  </div>
+</footer>
+</div><!-- CONTENT ENDS HERE -->
+  
+  
+  <script src="/juliareach-days-3/libs/simple-scrollspy.min.js"></script>
+  <script src="/juliareach-days-3/libs/participants.js"></script>
+  <script src="/juliareach-days-3/libs/map.js"></script>
+  <script>
+  window.onload = function () {
+    scrollSpy('#navbarResponsive', {
+      sectionClass: '.scrollspy',
+      menuActiveTarget: '.nav-link',
+      offset: 100
+    })
+  }
+  </script>
+  </body>
+</html>

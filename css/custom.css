@@ -1,0 +1,98 @@
+html { scroll-behavior: smooth; }
+header { margin: 0; padding: 0;}
+section { padding: 75px 0; }
+.jumbotron { margin-bottom: 0; background-size: contain;}
+
+/* NAVBAR */
+
+#navbar-toggler-cbox:checked ~ .collapse { display:block; }
+.navbar-nav .active { color: #fff; }
+
+@media (max-width: 435px){
+  .navbar-brand a {
+    display: none;
+  }
+}
+.navbar-brand a { 
+  color: ghostwhite; 
+  font-size: 1.2rem;}
+
+.navbar-brand a:hover {
+  color: rgba(255,255,255,.5);
+  text-decoration: none;
+}
+
+a.nav-link.active { color: #fff !important; }
+
+/* FORMATTING */
+
+section h2 { margin-bottom: 1em;}
+
+.lead {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  margin-bottom: 1em;
+  margin-top: 0;
+}
+
+.franklin-content ul li p { margin: 0; }
+
+.katex { font-size: 1em !important;}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -150px;
+    visibility: hidden;
+}
+
+/* CODE */
+
+pre { margin-bottom: 0.5em; }
+pre code.hljs {
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+pre code.hljs.plaintext {
+	margin-bottom: 1em;
+}
+
+.img-organiser {
+  border-radius:50%; 
+  max-width: 150px; 
+  height: 150px;
+  margin-top: 2rem; 
+  margin-bottom: 0rem
+}
+
+.img-invited {
+  border-radius:50%;
+  width: 100%;
+}
+
+#map { height: 512px;}
+
+
+.cluster {
+  background-color: rgba(220, 51, 255, 0.2);
+  background-clip: padding-box;
+  border-radius: 20px;
+}
+
+.cluster div {
+  background-color: rgba(220, 51, 255, 0.4);
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+  color: white;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.cluster span {
+  line-height: 30px;
+}
+/* ADD ANY SPECIFIC TWEAKS YOU MIGHT WANT HERE */
