@@ -2,6 +2,8 @@
 
 Website for *JuliaReach & JuliaIntervals Days 3*, 9th - 11th December 2021.
 
+https://juliareach.github.io/juliareach-days-3
+
 ### Instructions to deploy locally
 
 1. Clone the repo
