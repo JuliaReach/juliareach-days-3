@@ -20,9 +20,7 @@ The latter allows you to plug in values that you would have defined here.
 -->
 @def title       = "JuliaReach & JuliaIntervals Days 3"
 @def prepath     = "juliareach-days-3"
-@def description = """
-                   9th - 11th December 2021
-                   """
+@def description = "9th - 11th December 2021"
 @def authors     = "Marcelo Forets and Luca Ferranti"
 
 <!--  NAVBAR SPECS
