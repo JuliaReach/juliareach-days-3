@@ -91,7 +91,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |:---|:---:|:---:|
 |14h00 -- 14h20 |*Opening*| Marcelo Forets and Luca Ferranti|
 |14h20 -- 15h00|**Talk 1:** *Overview of JuliaReach* <details><summary>Abstract</summary>TBA</details>|Marcelo Forets|
-|15h00 -- 15h30|**Talk 2:** *TBA*<details><summary>Abstract</summary>TBA</details>|Christian Schilling|
+|15h00 -- 15h30|**Talk 2:** *Synthesis of hybrid automata from time-series data*<details><summary>Abstract</summary>A time series is a sequence of data points, each associated with a point in time. A hybrid automaton is a mathematical model of continuous dynamical systems with multiple operational modes. We present recent online and offline approaches to synthesize a hybrid automaton from a set of time series based on reachability analysis.</details>|Christian Schilling|
 |15h30 -- 16h00|**Talk 3:** *Exploring synergies between a proof and reachability based hybrid system verification* <details><summary>Abstract</summary>This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B. </details>| Paulius Stankaitis|
 |16h00 -- 17h00|**Break**| 🍕 |
 |17h00 -- 17h20 | **Challenge Problem 1:** *Platoon of unycicle vehicles* <details><summary>Abstract</summary>TBA</details>|Arvind Adimoolam|
