@@ -84,7 +84,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
      Detailed program
     ============================== -->
 
-\begin{section}{title="Program"}SetPropagation-FEM-Examples
+\begin{section}{title="Program"}
 
 **Thursday, 9th December 2021**
 
