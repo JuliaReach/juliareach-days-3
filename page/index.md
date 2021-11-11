@@ -27,7 +27,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 
 \begin{center}
 ~~~
-<a class="btn btn-primary" href="#" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+<a class="btn btn-primary" href="https://forms.gle/YL3w5dNmQei1UjGV9" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 ~~~
 \end{center}
 \end{section}
