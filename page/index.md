@@ -18,12 +18,18 @@ Connection details will be sent upon registration.
 \lead{**Registration**}
 
 The event is free, but registration is required. Optionally, participants' information will be
-displayed in the [world map of the Participants](#participants) section in this webpage. **Registration link coming soon**
+displayed in the [world map of the Participants](#participants) section in this webpage.
 
 \lead{**Code of Conduct**}
 
 *During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
 Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.*
+
+\begin{center}
+~~~
+<a class="btn btn-primary" href="#" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+~~~
+\end{center}
 \end{section}
 
 
