@@ -18,7 +18,7 @@ Connection details will be sent upon registration.
 \lead{**Registration**}
 
 The event is free, but registration is required. Optionally, participants' information will be
-displayed in the world map of the [Participants](#participants) section in this webpage. **Registration link coming soon**
+displayed in the [world map of the Participants](#participants) section in this webpage. **Registration link coming soon**
 
 \lead{**Code of Conduct**}
 
