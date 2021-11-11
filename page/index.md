@@ -84,7 +84,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
      Detailed program
     ============================== -->
 
-\begin{section}{title="Program"}
+\begin{section}{title="Program"}SetPropagation-FEM-Examples
 
 **Thursday, 9th December 2021**
 
@@ -100,7 +100,8 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |15h00 -- 15h30|**Talk 2:** *Synthesis of hybrid automata from time-series data*<details><summary>Abstract</summary>A time series is a sequence of data points, each associated with a point in time. A hybrid automaton is a mathematical model of continuous dynamical systems with multiple operational modes. We present recent online and offline approaches to synthesize a hybrid automaton from a set of time series based on reachability analysis.</details>|Christian Schilling|
 |15h30 -- 16h00|**Talk 3:** *Exploring synergies between a proof and reachability based hybrid system verification* <details><summary>Abstract</summary>This talk presents a joint work on integrating JuliaReach and reachability analysis into a refinement and proof-based system modelling and verification framework - Event-B. In particular, the talk attempts to demonstrate how reachability analysis can help to increase the verification automation of the hybrid system development in Event-B. </details>| Paulius Stankaitis|
 |16h00 -- 17h00|**Break**| 🍕 |
-|17h00 -- 17h20 | **Challenge Problem 1:** *Platoon of unycicle vehicles* <details><summary>Abstract</summary>TBA</details>|Arvind Adimoolam|
+|17h00 -- 17h20 | **Challenge Problem 1:** *Platoon of unicycle vehicles* <details><summary>Abstract</summary>We consider a platoon of unicycle vehicles where the i-th vehicle follows the (i-1)-th  and the relative displacements between the vehicles are controlled by a state-dependent feedback. The challenge is to verify a time-dependent safety constraint on the lateral distance between the vehicles as well as a safety bound on the horizontal displacements.
+</details>|Arvind Adimoolam|
 |17h20 -- 17h40 | **Challenge Problem 2:** *Robust control problem by scenario optimization* <details><summary>Abstract</summary>TBA</details>|Roberto Rocchetta|
 |17h40 -- 18h00|**Challenge Problem 3:** *A nonlinear truss structural dynamics problem using reachability analysis* <details><summary>Abstract</summary>In this challenge, a simple truss-structure linear/nonlinear dynamics problem will be presented, where in the nonlinear case, large displacements are considered [[1]](https://raw.githubusercontent.com/ONSAS/libroANLE/main/tex/libroANLE.pdf#subsection.4.3.1). Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to the linear case will be recalled [[2]](https://arxiv.org/pdf/2105.05841.pdf). The numerical results for the linear case using numerical integration and reachability will be obtained. Finally the nonlinear case problem will be clearly posed allowing to discuss possible novel approaches using reachability analysis.</details>|Jorge Pérez Zerpa|
 |18h00 -- 18h20 | **Challenge Problem 4:**  *Nonlinear model of F16 flight dynamics* <details><summary>Abstract</summary>TBA</details>| Raktim Bhattacharya|
