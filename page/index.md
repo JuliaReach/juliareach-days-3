@@ -150,8 +150,8 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 \begin{center}
 \begin{columns}
 \begin{column}{colclass="col-sm-3"}
-\figure{path="assets/speakers-img/forets.png", imgclass="img-organiser"}\\
-**[Marcelo Forets](https://mforets.github.io/)**\\
+\figure{path="assets/speakers-img/marcelo.jpg", imgclass="img-organiser"}\\
+**[Marcelo Forets](https://github.com/mforets)**\\
 *Universidad de la República, Uruguay*
 \end{column}
 \begin{column}{colclass="col-sm-3"}
