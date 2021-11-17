@@ -13,7 +13,7 @@ function add_icon(service, account) {
 
 
 function popup_text(person_or_group) {
-    var s = `<b>${person_or_group.name}</b></br>`
+    var s = `<b>${person_or_group.Name}</b></br>`
 
     if (person_or_group.github != undefined) {
         s += add_icon('github', person_or_group.github);
@@ -39,7 +39,7 @@ function popup_text(person_or_group) {
 }
 
 function add_marker(markers, person) {
-    var marker = L.circleMarker([person.lat, person.lon], {
+    var marker = L.circleMarker([person.latitude, person.longitude], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -69,7 +69,9 @@ var markers = L.markerClusterGroup({
 });
 
 for (const person of persons) {
-    add_marker(markers, person);
+    if (person.latitude != undefined && person.longitude != undefined) {
+        add_marker(markers, person);
+    }
 }
 
 map.addLayer(markers)

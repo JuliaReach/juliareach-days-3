@@ -1,49 +1,119 @@
 const persons = [
     {
-        name : 'Marcelo Forets',
-        lat : -34.8813764,
-        lon : -55.051468,
-        github : 'mforets',
-        linkedin: 'https://www.linkedin.com/in/marcelo-forets-irurtia-7b8238149/',
+        "longitude": 24.821351,
+        "github": "lucaferranti",
+        "linkedin": "https://www.linkedin.com/in/luca-ferranti/",
+        "latitude": 60.186836,
+        "homepage": "https://lucaferranti.github.io/",
+        "Name": "Luca Ferranti"
     },
     {
-        name : 'Jorge Pérez Zerpa',
-        lat : -34.8813764,
-        lon : -55.051468,
-        github : 'jorgepz',
-        linkedin: 'https://uy.linkedin.com/in/jorgejmpz',
-        homepage: 'https://www.fing.edu.uy/~jorgepz/'
+        "longitude": -56.104432,
+        "github": "mvanzulli",
+        "linkedin": "https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/",
+        "latitude": -34.903026,
+        "Name": "Mauricio Vanzulli"
     },
     {
-        name : 'Luca Ferranti',
-        lat : 60.186836,
-        lon : 24.821351,
-        github : 'lucaferranti',
-        linkedin: 'https://www.linkedin.com/in/luca-ferranti/',
-        homepage: 'https://lucaferranti.github.io'
+        "longitude": 16.259398,
+        "latitude": 48.30988,
+        "homepage": "https://pub.ist.ac.at/~mgarcias/",
+        "Name": "Miriam García Soto"
     },
     {
-        name: 'Christian Schilling',
-        lat: 57.015,
-        lon: 9.985,
-        github: 'schillic',
-        homepage: 'https://www.christianschilling.net/'
+        "longitude": 80.2329,
+        "github": "asarvind",
+        "latitude": 26.5123,
+        "Name": "Arvind Adimoolam"
     },
     {
-        name: 'Luis Benet',
-        lat: 18.9820975,
-        lon: -99.2372167,
-        github: 'lbenet',
-        twitter: 'luisbenetf',
-        homepage: 'https://lbenet.github.io/'
+        "longitude": -55.051468,
+        "github": "mforets",
+        "gitlab": "https://gitlab.com/mforets",
+        "linkedin": "https://www.linkedin.com/in/marcelo-forets-irurtia-7b8238149/",
+        "latitude": -34.8813764,
+        "twitter": "juliareach",
+        "Name": "Marcelo Forets"
     },
     {
-        name: 'David Sanders',
-        lat: 42.361145,
-        lon: -71.057083,
-        github: 'dpsanders',
-        twitter: 'DavidPSanders',
-        linkedin: 'https://www.linkedin.com/in/david-p-sanders-05aa246/',
-        homepage: 'https://sistemas.fciencias.unam.mx/~dsanders/'
+        "longitude": -55.267582,
+        "github": "jorgepz",
+        "linkedin": "https://www.linkedin.com/in/jorgejmpz/",
+        "latitude": -34.890226,
+        "homepage": "https://www.fing.edu.uy/~jorgepz/",
+        "Name": "Jorge Pérez Zerpa"
+    },
+    {
+        "longitude": -80.65107,
+        "github": "jonniedie",
+        "linkedin": "https://www.linkedin.com/in/jonniediegelman",
+        "latitude": 28.573469,
+        "twitter": "jonniedie",
+        "Name": "Jonnie Diegelman"
+    },
+    {
+        "longitude": 5.4697225,
+        "github": "Roberock",
+        "linkedin": "https://it.linkedin.com/in/roberto-rocchetta-737b857a",
+        "latitude": 51.441642,
+        "Name": "Roberto Rocchetta"
+    },
+    {
+        "Name": "Leonardo Barboni"
+    },
+    {
+        "Name": "Paulius Stankaitis"
+    },
+    {
+        "homepage": "isrlab.github.io",
+        "Name": "Raktim Bhattacharya"
+    },
+    {
+        "longitude": 9.0,
+        "latitude": 57.0,
+        "homepage": "https://www.christianschilling.net/",
+        "Name": "Christian Schilling"
+    },
+    {
+        "longitude": -14.010115,
+        "github": "SebastianGuadalupe",
+        "latitude": 28.68235,
+        "Name": "Sebastián Guadalupe"
+    },
+    {
+        "longitude": -2.983333,
+        "github": "AnderGray",
+        "latitude": 53.400002,
+        "Name": "Ander Gray"
+    },
+    {
+        "homepage": "https://perso.ensta-paris.fr/~alexandre/",
+        "Name": "Alexandre dit Sandretto"
+    },
+    {
+        "longitude": 29.0,
+        "github": "doganulus",
+        "gitlab": "https://gitlab.com/doganulus",
+        "linkedin": "https://www.linkedin.com/in/doganulus/",
+        "latitude": 41.0,
+        "twitter": "ulusdd",
+        "Name": "Dogan Ulus"
+    },
+    {
+        "Name": 'Luis Benet',
+        "latitude": 18.9820975,
+        "longitude": -99.2372167,
+        "github": 'lbenet',
+        "twitter": 'luisbenetf',
+        "homepage": 'https://lbenet.github.io/'
+    },
+    {
+        "Name": 'David Sanders',
+        "latitude": 42.361145,
+        "longitude": -71.057083,
+        "github": 'dpsanders',
+        "twitter": 'DavidPSanders',
+        "linkedin": 'https://www.linkedin.com/in/david-p-sanders-05aa246/',
+        "homepage": 'https://sistemas.fciencias.unam.mx/~dsanders/'
     }
-];
+]
