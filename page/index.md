@@ -18,7 +18,7 @@ Connection details will be sent upon registration.
 \lead{**Registration**}
 
 The event is free, but registration is required. Optionally, participants' information will be
-displayed in the [world map of the Participants](#participants) section in this webpage.
+displayed in the [world map of the Participants](#participants) section in this webpage. Upon registration, you should receive a confirmation email. If you need to edit your form, follow the link provided in such email.
 
 \lead{**Code of Conduct**}
 
