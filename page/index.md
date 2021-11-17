@@ -67,6 +67,13 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 |JuliaIntervals Round Table |17h00 -- 19h00|
 \end{table}
 \end{center}
+\\
+\\
+**Saturday, 11th December 2021**
+
+It is sprint time! During this day we will use online platforms (Discord, GitHub)
+to create, discuss and implement solutions for the challenge problems, or other
+problems that you have proposed during these Days.
 
 \end{section}
 
@@ -75,8 +82,15 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 <!-- ==============================
      HACKATHON
      ============================== -->
-\begin{section}{title="Challenges"}
-    There will be a hackathon going on during the event. More info coming soon.
+\begin{section}{title="Reachathon"}
+    In the spirit of a [Hackathon](https://en.wikipedia.org/wiki/Hackathon), our
+    *Reachathon* is allocated to discuss and implement exploratory solutions to programming
+    tasks related to the workshop.
+
+    Every contribution and initiative counts, from first-time contributors seeking guidance
+    in ways to contribute to JuliaReach and JuliaIntervals packages, to developments of more
+    advanced research topics or tools proposed in the Challenge problems
+    session the first day of the workshop.
 \end{section}
 
 
