@@ -40,7 +40,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 
 **Thursday, 9th December 2021**
 
-\lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/14:00).}
+\lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/13:00).}
 
 \begin{center}
 \begin{table}{class="table-striped"}
@@ -89,7 +89,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 **Thursday, 9th December 2021**
 
 
-\lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/14:00).}
+\lead{All times are in UTC, convert the starting time to your timezone [here](https://arewemeetingyet.com/UTC/2021-12-09/13:00).}
 
 \begin{center}
 \begin{table}{class="table-striped"}
