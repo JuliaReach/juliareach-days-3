@@ -72,7 +72,7 @@ Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` 
 **Saturday, 11th December 2021**
 
 It is sprint time! During this day we will use online platforms (Discord, Github)
-to create, chat and implement solutions for the challenge problems, or other
+to create, discuss and implement solutions for the challenge problems, or other
 problems that you have proposed during these Days.
 
 \end{section}
