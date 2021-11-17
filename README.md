@@ -8,6 +8,8 @@ https://juliareach.github.io/juliareach-days-3
 
 Participants should register by completing [this form](https://forms.gle/YL3w5dNmQei1UjGV9).
 
+Upon registration, you should receive a confirmation email. If you need to edit your form, follow the link provided in such email.
+
 ### Instructions to deploy locally
 
 1. Clone the repo
