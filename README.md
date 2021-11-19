@@ -22,7 +22,7 @@ $ julia --project=.
 julia> ] activate
 ```
 
-4. Do
+3. Do
 ```julia
 using PkgPage; serve()
 ```
