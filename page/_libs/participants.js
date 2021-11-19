@@ -36,14 +36,6 @@ const persons = [
         "Name": "Marcelo Forets"
     },
     {
-        "longitude": -55.267582,
-        "github": "jorgepz",
-        "linkedin": "https://www.linkedin.com/in/jorgejmpz/",
-        "latitude": -34.890226,
-        "homepage": "https://www.fing.edu.uy/~jorgepz/",
-        "Name": "Jorge Pérez Zerpa"
-    },
-    {
         "longitude": -80.65107,
         "github": "jonniedie",
         "linkedin": "https://www.linkedin.com/in/jonniediegelman",
@@ -65,7 +57,7 @@ const persons = [
         "Name": "Paulius Stankaitis"
     },
     {
-        "homepage": "isrlab.github.io",
+        "homepage": "https://isrlab.github.io",
         "Name": "Raktim Bhattacharya"
     },
     {
@@ -98,6 +90,76 @@ const persons = [
         "latitude": 41.0,
         "twitter": "ulusdd",
         "Name": "Dogan Ulus"
+    },
+    {
+        "longitude": -55.265,
+        "github": "jorgepz",
+        "linkedin": "https://www.linkedin.com/in/jorgejmpz/",
+        "latitude": -34.88,
+        "homepage": "https://www.fing.edu.uy/~jorgepz/",
+        "Name": "Jorge Pérez Zerpa"
+    },
+    {
+        "longitude": 9.88462,
+        "github": "Kolaru",
+        "latitude": 53.57929,
+        "Name": "Benoît Richard"
+    },
+    {
+        "github": "icolecchio",
+        "Name": "Iván"
+    },
+    {
+        "longitude": 22.96,
+        "github": "nikos-kekatos",
+        "gitlab": "https://gitlab.com/nikos.kekatos",
+        "latitude": 40.6,
+        "Name": "Nikos KEKATOS"
+    },
+    {
+        "github": "Logankilpatrick",
+        "linkedin": "HTTPS://LinkedIn.com/in/logankilpatrick",
+        "twitter": "OfficialLoganK",
+        "Name": "Logan kilpatrick"
+    },
+    {
+        "longitude": 103.77425,
+        "github": "mchitre",
+        "latitude": 1.297602,
+        "homepage": "https://www.chitre.net",
+        "Name": "Mandar Chitre"
+    },
+    {
+        "homepage": "https://www.cse.iitk.ac.in/users/isaha/",
+        "Name": "Indranil Saha"
+    },
+    {
+        "longitude": -73.954,
+        "github": "JeffreySarnoff",
+        "latitude": 40.775,
+        "Name": "Jeffrey Sarnoff"
+    },
+    {
+        "longitude": 5.724524,
+        "linkedin": "https://www.linkedin.com/in/alexandre-rocca-a4b745133/",
+        "latitude": 45.188529,
+        "Name": "Alexandre Rocca"
+    },
+    {
+        "longitude": -113.490913,
+        "github": "decardinb",
+        "linkedin": "https://www.linkedin.com/in/decardinb/",
+        "latitude": 53.544449,
+        "twitter": "decardinb",
+        "Name": "Benjamin Decardi-Nelson"
+    },
+    {
+        "Name": "Neeraj Kumar Singh"
+    },
+    {
+        "longitude": 12.3218299,
+        "latitude": 45.44267388,
+        "Name": "Gianluca Salogni"
     },
     {
         "Name": 'Luis Benet',
