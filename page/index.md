@@ -193,4 +193,9 @@ problems that you have proposed during these Days.
 \begin{section}{title="Participants"}
 
 ~~~<div id="map"></div>~~~
+\\
+\lead{**List of participants**}
+~~~
+<div id="part_list"></div>
+~~~
 \end{section}
