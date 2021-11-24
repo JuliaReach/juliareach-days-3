@@ -19,5 +19,6 @@ speakers = [
     Speaker("Christian Schilling", "schilling.jfif", "Aalborg University, Denmark", "https://www.christianschilling.net/"),
     Speaker("Julien Alexandre dit Sandretto", "Julien.jpg", "ENSTA ParisTech, France", "https://perso.ensta-paris.fr/~alexandre/"),
     Speaker("Jorge Pérez-Hernández", "JorgePerezHernandez.png", "Universidad Nacional Autónoma de México, México", "https://www.linkedin.com/in/perezhz/"),
-    Speaker("Benoît Richard", "benoit.png", "CUI - Hamburg, Germany", "https://github.com/kolaru")
+    Speaker("Benoît Richard", "benoit.png", "CUI - Hamburg, Germany", "https://github.com/kolaru"),
+    Speaker("Niklas Kochdumper", "Niklas.jpg", "Stony Brook University, USA", "https://www.in.tum.de/i06/people/niklas-kochdumper-msc/")
 ]
