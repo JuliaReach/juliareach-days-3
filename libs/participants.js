@@ -162,6 +162,31 @@ const persons = [
         "Name": "Gianluca Salogni"
     },
     {
+        "github": "eliascarv",
+        "twitter": "eliascarvdev",
+        "Name": "Elias da Conceição Carvalho"
+    },
+    {
+        "longitude": 14.2767,
+        "linkedin": "https://www.linkedin.com/in/stefanominopoli/",
+        "latitude": 40.863,
+        "Name": "Stefano Minopoli"
+    },
+    {
+        "longitude": -73.11623,
+        "github": "Kochdumper",
+        "latitude": 40.914224,
+        "homepage": "https://www.in.tum.de/i06/people/niklas-kochdumper-msc/",
+        "Name": "Niklas Kochdumper"
+    },
+    {
+        "longitude": -56.117396,
+        "github": "dfcaporale",
+        "latitude": -34.882103,
+        "homepage": "http://fisicanolineal.fisica.edu.uy/",
+        "Name": "Daniel Freire Caporale"
+    },
+    {
         "Name": 'Luis Benet',
         "latitude": 18.9820975,
         "longitude": -99.2372167,
