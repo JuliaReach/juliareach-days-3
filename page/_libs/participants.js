@@ -187,6 +187,16 @@ const persons = [
         "Name": "Daniel Freire Caporale"
     },
     {
+        "longitude": 6.160827,
+        "latitude": 46.202402,
+        "Name": "Irini Mens"
+    },
+    {
+        "github": "antoniobruto",
+        "homepage": "https://cse.iitkgp.ac.in/~bdcaa",
+        "Name": "Antonio Anastasio Bruto da Costa"
+    },
+    {
         "Name": 'Luis Benet',
         "latitude": 18.9820975,
         "longitude": -99.2372167,
