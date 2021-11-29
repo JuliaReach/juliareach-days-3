@@ -197,6 +197,18 @@ const persons = [
         "Name": "Antonio Anastasio Bruto da Costa"
     },
     {
+        "longitude": 120.0,
+        "github": "stevengogogo",
+        "linkedin": "https://www.linkedin.com/in/shao-ting-chiu/",
+        "latitude": 23.0,
+        "Name": "Steven Shao-Ting Chiu"
+    },
+    {
+        "github": "pogudingleb",
+        "homepage": "http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/",
+        "Name": "Gleb Pogudin"
+    },
+    {
         "Name": 'Luis Benet',
         "latitude": 18.9820975,
         "longitude": -99.2372167,
