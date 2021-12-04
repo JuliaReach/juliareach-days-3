@@ -16,7 +16,6 @@ speakers = [
     Speaker("Luis Benet", "benet.jpeg", "Universidad Nacional Autónoma de México", "https://lbenet.github.io/"),
     Speaker("David Sanders", "sanders.jpeg", "Universidad Nacional Autónoma de México", "https://github.com/dpsanders"),
     Speaker("Raktim Bhattacharya", "Raktim-Bhattacharya.jpg", "Texas A&M University, USA", "https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html"),
-    Speaker("Christian Schilling", "schilling.jfif", "Aalborg University, Denmark", "https://www.christianschilling.net/"),
     Speaker("Julien Alexandre dit Sandretto", "Julien.jpg", "ENSTA ParisTech, France", "https://perso.ensta-paris.fr/~alexandre/"),
     Speaker("Jorge Pérez-Hernández", "JorgePerezHernandez.png", "Universidad Nacional Autónoma de México, México", "https://www.linkedin.com/in/perezhz/"),
     Speaker("Benoît Richard", "benoit.png", "CUI - Hamburg, Germany", "https://github.com/kolaru"),
