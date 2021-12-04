@@ -209,20 +209,25 @@ const persons = [
         "Name": "Gleb Pogudin"
     },
     {
-        "Name": 'Luis Benet',
-        "latitude": 18.9820975,
-        "longitude": -99.2372167,
-        "github": 'lbenet',
-        "twitter": 'luisbenetf',
-        "homepage": 'https://lbenet.github.io/'
+        "longitude": -71.057083,
+        "github": "dpsanders",
+        "linkedin": "https://www.linkedin.com/in/david-p-sanders-05aa246",
+        "latitude": 42.361145,
+        "homepage": "https://sistemas.fciencias.unam.mx/~dsanders",
+        "twitter": "DavidPSanders",
+        "Name": "David P. Sanders"
     },
     {
-        "Name": 'David Sanders',
-        "latitude": 42.361145,
-        "longitude": -71.057083,
-        "github": 'dpsanders',
-        "twitter": 'DavidPSanders',
-        "linkedin": 'https://www.linkedin.com/in/david-p-sanders-05aa246/',
-        "homepage": 'https://sistemas.fciencias.unam.mx/~dsanders/'
+        "longitude": 37.0,
+        "github": "AndreyBychkov",
+        "latitude": 55.0,
+        "Name": "Andrey Bychkov"
+    },
+    {
+        "longitude": -99.2372167,
+        "github": "lbenet",
+        "latitude": 18.9820975,
+        "homepage": "https://lbenet.github.io/",
+        "Name": "Luis Benet"
     }
 ]
