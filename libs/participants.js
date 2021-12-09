@@ -229,5 +229,35 @@ const persons = [
         "latitude": 18.9820975,
         "homepage": "https://lbenet.github.io/",
         "Name": "Luis Benet"
+    },
+    {
+        "longitude": 85.0,
+        "github": "Sara-cos",
+        "gitlab": "https://gitlab.com/Sara-cos",
+        "linkedin": "https://www.linkedin.com/in/prasansha-satpathy/",
+        "latitude": 20.0,
+        "homepage": "https://www.prasanshasatpathy.codes/",
+        "twitter": "cosmo_sat",
+        "Name": "Prasansha Satpathy"
+    },
+    {
+        "longitude": 37.649072,
+        "latitude": 55.754073,
+        "Name": "Yan"
+    },
+    {
+        "github": "miguelraz",
+        "homepage": "https://miguelraz.github.io",
+        "twitter": "miguelraz_",
+        "Name": "miguel raz"
+    },
+    {
+        "longitude": -99.13320771339446,
+        "github": "PerezHz",
+        "gitlab": "https://gitlab.com/PerezHz",
+        "linkedin": "https://www.linkedin.com/in/perezhz/",
+        "latitude": 19.432571824479695,
+        "twitter": "Perez_Hz",
+        "Name": "Jorge A. Pérez Hernández"
     }
 ]
