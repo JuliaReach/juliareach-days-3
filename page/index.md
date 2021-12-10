@@ -25,11 +25,6 @@ displayed in the [world map of the Participants](#participants) section in this 
 *During the event, we will follow the [JuliaCon code of conduct](https://juliacon.org/2021/coc/).
 Violations of code of conduct can be reported to `mforets [at] gmail [dot] com` and/or `luca [dot] ferranti [at] uwasa [dot] fi`.*
 
-\begin{center}
-~~~
-<a class="btn btn-primary btn-lg" href="https://forms.gle/YL3w5dNmQei1UjGV9" target="_blank" rel="noreferrer noopener" role="button">Register</a>
-~~~
-\end{center}
 \end{section}
 
 
