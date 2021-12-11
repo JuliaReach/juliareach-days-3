@@ -28,3 +28,12 @@ using PkgPage; serve()
 ```
 
 4. The website will open in your browser.
+
+
+## Reachathon
+
+The reachathon is the opportunity to put your Julia programming skills to work!
+
+From first-time developers seeking guidance in ways to contribute to JuliaReach and JuliaIntervals packages, to more advanced research topics or tools proposed in the Challenge problems session the first day of the workshop, all contributions are welcome.
+
+For more information and challenge problems descriptions, see the dedicated repository: https://github.com/JuliaReach/juliareach-days-3-reachathon
